@@ -3,7 +3,7 @@
 Welcome to GetWell, a modern SaaS platform focused on improving mental health and wellness through innovative technology and compassionate care.
 This project is inspired by gogetwell.ai and built with a fully functional website featuring beautiful UI, responsive design, and complete navigation.
 
-**Demo link**: 
+**Demo link**: https://capable-florentine-32498b.netlify.app/
 
 
 **🚀 Project Features**
@@ -61,7 +61,7 @@ This project is inspired by gogetwell.ai and built with a fully functional websi
 
 ## 🔥 How to Run Locally
 Clone the repository:
-git clone https://github.com/saidul-122/getwell-saas.git
+git clone https://github.com/saidul-122/getwell-saas-clone-project/
 cd getwell-saas
 
 Install dependencies:
